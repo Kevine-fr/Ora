@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64123260361",
+    "project_id": "orat-a4e12",
+    "storage_bucket": "orat-a4e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64123260361:android:259c1ddff76d181fceac18",
+        "android_client_info": {
+          "package_name": "com.example.ora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmGKib-N31I5OCpYWEwA8KkQVtEEIrSlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
